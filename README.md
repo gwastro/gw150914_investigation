@@ -22,7 +22,7 @@ detectors at the time of GW150914.
 
 ## Analysis Details ##
 
-Details of the analaysis can be found in our [preprint paper]().
+Details of the analaysis can be found in our [preprint paper](https://arxiv.org/abs/1811.04071).
 
 ## Description of Supplemental Material ##
 
