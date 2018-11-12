@@ -26,7 +26,7 @@ Details of the analaysis can be found in our [preprint paper]().
 
 ## Description of Supplemental Material ##
 
-This repository contains [Jupyter notebooks](http://jupyter.org/) that reproduce the results in our paper. Running the notebooks installation of requires [PyCBC](https://pycbc.org/) v1.12.4 and [LALSuite](https://git.ligo.org/lscsoft/lalsuite) 6.49 which contains version 1.8.0 of the LALSimulation library used to generate the maximum likelihood waveform. Both of these libraries can be installed using [pip](https://pip.pypa.io/en/stable/) with the command:
+This repository contains [Jupyter notebooks](http://jupyter.org/) that reproduce the results in our paper. Running the notebooks requires installation of [PyCBC](https://pycbc.org/) v1.12.4 and [LALSuite](https://git.ligo.org/lscsoft/lalsuite) 6.49, which contains version 1.8.0 of the LALSimulation library used to generate the maximum likelihood waveform. Both of these libraries can be installed using [pip](https://pip.pypa.io/en/stable/) with the command:
 ```sh
 pip install 'pycbc==1.12.4' 'lalsuite==6.49'
 ```
