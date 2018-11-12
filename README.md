@@ -60,8 +60,17 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{
+@article{Nielsen:2018XXX,
+      author         = "Alex B. Nielsen, Alexander H. Nitz, Collin Capano, 
+                        and Duncan A. Brown 
+      title          = "{Investigating the noise residuals around the gravitational wave event GW150914}",
+      year           = "2018",
+      eprint         = "1811.04071",
+      archivePrefix  = "arXiv",
+      primaryClass   = "gr-qc",
+      SLACcitation   = "%%CITATION = ARXIV:1811.04071;%%"
 }
+
 ```
 
 
